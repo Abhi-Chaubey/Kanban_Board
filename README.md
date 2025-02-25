@@ -1,0 +1,1 @@
+This code sets up a basic Kanban board interface with a toolbox for managing task priorities and actions (adding/removing tasks). The design is minimalistic, with a dark theme and hover effects for interactivity. The priority colors and action buttons are the main interactive elements, and the layout is managed using flexbox for alignment and spacing.
